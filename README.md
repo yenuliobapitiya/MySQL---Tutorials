@@ -16,5 +16,5 @@
 12. CTEs
 13. Temp Tables
 14. Stored Procedures
-15. Triggers & Event
+15. Triggers & Events
     

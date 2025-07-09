@@ -1,6 +1,5 @@
-# MySQL-Tutorials
 
-## Topics
+# 📘 Topics
 
 1. SELECT Statement
 2. WHERE Clause
